@@ -6,4 +6,6 @@ train: Contains 5983 images for 4 classes ['Food', 'misc', 'Attire', 'Decoration
 
 test: Contains 3219 images
 
-## 78.16091% Accuracy was obtained using transfer learning (Xception model)
+## Achieved 78.16091% Accuracy using Xception Architechture
+
+
